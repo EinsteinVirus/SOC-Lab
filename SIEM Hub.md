@@ -1,6 +1,6 @@
 Wazuh SIEM Installation & Configuration Guide
 
-This document contains the step-by-step commands used to set up the Wazuh SIEM on Ubuntu 22.04 and deploy the agent to a Windows 11 endpoint.
+This document contains the step-by-step commands used to set up the Wazuh SIEM on Ubuntu 22.04
 
 Ubuntu SIEM Setup (Wazuh Manager)
 
